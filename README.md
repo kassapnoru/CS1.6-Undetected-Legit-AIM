@@ -1,7 +1,7 @@
 - Start the game as steam_legacy.
 - Run the injector as administrator.
 - Select hl.exe from injector.
-- And drag the injectore hack.dll file.
+- And drag the injectore ZeroV3.dll file.
 - Press the Inject button That's it.
 
 THERE IS NO CHEAT MENU, IT IS AUTOMATICALLY ACTIVE.
