@@ -5,3 +5,6 @@
 - Press the Inject button That's it.
 
 THERE IS NO CHEAT MENU, IT IS AUTOMATICALLY ACTIVE.
+
+Thanks to the injector owner.
+https://github.com/master131
